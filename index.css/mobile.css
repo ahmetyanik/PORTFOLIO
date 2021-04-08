@@ -1,0 +1,32 @@
+@media (max-width:576px) {
+
+  body {
+    background-image: url(https://antalyacityzone.com/images/galleries/antalyada-fotograf-cekebileceginiz-en-guzel-7-yer/shutterstock-10091157161591859367.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    min-height: 100vh;
+
+  }
+
+  ul.sidenav li a {
+    text-align: center;
+    float: none;
+  }
+
+  .nav-link {
+    color: white;
+  }
+
+  .nav-link.active {
+    color: black !important;
+    padding: 0.7rem;
+  }
+
+  .navbar-brand {
+
+    font-family: 'Big Shoulders Inline Text', cursive;
+  }
+
+}

@@ -1,0 +1,36 @@
+@media (max-width:576px){
+
+
+
+    ul.sidenav li a {
+        text-align: center;
+        float: none;
+      }
+
+     .nav-link{
+          color: white;
+      }
+
+      .nav-link.active{
+        padding: 0.7rem;
+      }
+
+
+      /*CARDS*/
+
+      .w3-card-4{
+
+        width: 25rem;
+        margin: 1rem;
+
+      }
+
+      .card_img{
+        width: 25rem;
+      }
+
+      .container.mt-3{
+        min-height: 100vh;
+      }
+
+}

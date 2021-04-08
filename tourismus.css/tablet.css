@@ -1,0 +1,45 @@
+@media (max-width:1024px) {
+
+
+
+  ul.sidenav {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+
+  ul.sidenav li a {
+    float: left;
+    padding: 15px;
+  }
+
+  .navbar-brand {
+    font-size: 2rem;
+    color: black !important;
+  }
+
+  .nav-link.active {
+    padding: 0.7rem;
+  }
+
+
+  /*INHALT*/
+
+  .inhalt_img {
+
+    width: 100%;
+
+  }
+
+  .inhalt_img2 {
+
+    width: 40%;
+    float: right;
+  }
+
+  .container.mt-3{
+    min-height: 100vh;
+  }
+
+
+}

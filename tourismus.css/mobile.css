@@ -1,0 +1,40 @@
+@media (max-width:576px){
+
+
+
+    ul.sidenav li a {
+        text-align: center;
+        float: none;
+      }
+
+     .nav-link{
+          color: white;
+      }
+
+      .nav-link.active{
+        padding: 0.7rem;
+      }
+
+        /*INHALT*/
+
+  .inhalt_img {
+
+    width: 100%;
+    
+  }
+
+  .inhalt_img2 {
+
+    width: 12rem;
+    float: right;
+    margin-right: 15px;
+  }
+
+ 
+
+  .container.mt-3{
+    min-height: 100vh;
+  }
+
+
+}
